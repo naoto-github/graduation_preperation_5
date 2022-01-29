@@ -1,0 +1,25 @@
+{
+  "name": "chartjs-plugin-colorschemes",
+  "description": "Predefined color schemes for Chart.js",
+  "homepage": "https://nagix.github.io/chartjs-plugin-colorschemes",
+  "license": "MIT",
+  "version": "0.4.0",
+  "main": "dist/chartjs-plugin-colorschemes.js",
+  "ignore": [
+    ".codeclimate.yml",
+    ".gitignore",
+    ".npmignore",
+    ".travis.yml",
+    "scripts"
+  ],
+  "_release": "0.4.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.4.0",
+    "commit": "76aa453fb685d3f0133d18682d424a13a61db0c3"
+  },
+  "_source": "https://github.com/nagix/chartjs-plugin-colorschemes.git",
+  "_target": "0.4.0",
+  "_originalSource": "chartjs-plugin-colorschemes",
+  "_direct": true
+}
